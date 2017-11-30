@@ -1,0 +1,10 @@
+<Alloy>
+    <TabGroup id="tabGroup">
+        <Tab  title='Tab1' id="leftTab">
+            <Require type="view" src="tab1" id="rssTab"/>		
+        </Tab>
+        <Tab  title='Tab2' id="rightTab">
+            <Require type="view" src="tab2" id="aboutTab"/>		
+        </Tab>	
+    </TabGroup>
+</Alloy>

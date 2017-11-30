@@ -1,0 +1,5 @@
+<Alloy>
+    <Window>
+        <Label id="label">I am a red window.</Label>
+    </Window>
+</Alloy>

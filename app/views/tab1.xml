@@ -1,0 +1,8 @@
+<Alloy>
+     <Window class="container">
+		<TableView id="table">
+        </TableView>
+		<Button id="increment" onClick="increment" >+</Button>
+		<Button  id="decrement" onClick="decrement">-</Button>
+	</Window>
+</Alloy>

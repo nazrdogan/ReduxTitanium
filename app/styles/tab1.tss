@@ -1,0 +1,41 @@
+".container": {
+	backgroundColor:"white"
+}
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+"#increment": {
+	width: "50%",
+	height: Ti.UI.SIZE,
+	bottom:10,
+	left:10,
+	color:"white",
+	backgroundColor: "blue",
+	font: {
+		fontSize:32
+	}
+}
+"#decrement": {
+	width: "50%",
+	height: Ti.UI.SIZE,
+	bottom:10,
+	right:10,
+	color:"white",
+	backgroundColor: "red",
+	font: {
+		fontSize: 32
+	}
+}
+
+"#label": {
+	font: {
+		fontSize: 22
+	}
+}
+
+
+"#table": {
+	bottom:100
+}
