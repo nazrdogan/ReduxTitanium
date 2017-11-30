@@ -3,6 +3,8 @@ function increment(e) {
 }
 function decrement(e) {
   Alloy.Globals.store.dispatch({ type: "DECREMENT" });
+}
+function getMoreData() {
   Alloy.Globals.store.dispatch({ type: "GET_MORE_DATA" });
 }
 

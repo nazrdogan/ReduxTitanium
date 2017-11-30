@@ -2,6 +2,7 @@
      <Window class="container">
 		<TableView id="table">
         </TableView>
+		<Button id="getMore" onClick="getMoreData" >Get More</Button>
 		<Button id="increment" onClick="increment" >+</Button>
 		<Button  id="decrement" onClick="decrement">-</Button>
 	</Window>

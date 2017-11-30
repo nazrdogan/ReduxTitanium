@@ -37,5 +37,15 @@
 
 
 "#table": {
-	bottom:100
+	bottom:150
+}
+"#getMore":{
+     width:  Ti.UI.FILL,
+	height: Ti.UI.SIZE,
+	bottom:80,
+	color:"white",
+	backgroundColor: "red",
+	font: {
+		fontSize: 32
+	}
 }
